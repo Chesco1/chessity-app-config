@@ -1,0 +1,1 @@
+# chessity-app-config
